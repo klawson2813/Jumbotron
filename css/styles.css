@@ -1,9 +1,16 @@
-.jumbotron {
-
+.list-inline {
+    display: flex;
+    justify-content: space-evenly; 
+}
+.lead {
+    font-style: italic;
 }
 ul {
     margin-bottom: 0;
 }
 li {
     text-align: center;
+}
+button {
+    margin-top: 10px;
 }
