@@ -1,1 +1,1 @@
-# Jumbotron
+This is a Jumbotron base foundation.
